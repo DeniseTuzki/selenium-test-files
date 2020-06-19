@@ -1,0 +1,11 @@
+total 20
+drwxr-xr-x 1 hp 197121    0 Jun 19 19:18 ./
+drwxr-xr-x 1 hp 197121    0 Jun 19 18:20 ../
+drwxr-xr-x 1 hp 197121    0 Jun 19 19:15 .git/
+-rw-r--r-- 1 hp 197121    0 Jun 19 19:18 list.txt
+-rw-r--r-- 1 hp 197121 1671 Jun 19 19:16 my-list-of-commands.txt
+-rw-r--r-- 1 hp 197121   31 Jun 19 18:40 mytest.py
+-rw-r--r-- 1 hp 197121   23 Jun 19 18:40 README.md
+-rw-r--r-- 1 hp 197121  291 Apr 13 12:43 rhian.py
+-rw-r--r-- 1 hp 197121  281 Apr 13 12:43 rhian2.py
+-rw-r--r-- 1 hp 197121    0 Jun 19 18:19 test.txt.txt

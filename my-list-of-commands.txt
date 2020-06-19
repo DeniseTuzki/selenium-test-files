@@ -1,0 +1,72 @@
+    1  ls -l
+    2  pwd
+    3  clear
+    4  git clone git@github.com:DeniseTuzki/selenium-test-files.git
+    5  git status
+    6  ssh-keygen
+    7  ls -l
+    8  cat /c/Users/hp/.ssh/id_rsa.pub
+    9  git clone git@github.com:DeniseTuzki/selenium-test-files.git
+   10  cd selenium-test-files/
+   11  cd ..
+   12  rm selenium-test-files/
+   13  rm -rf selenium-test-files/
+   14  ls -l | grep sel
+   15  git clone https://github.com/DeniseTuzki/selenium-test-files.git
+   16  rm -rf selenium-test-files/
+   17  rm -rf /c/Users/hp/.ssh/
+   18  clear
+   19  ls -l
+   20  mkdir DeniseTest
+   21  cd DeniseTest/
+   22  clear
+   23  clear
+   24  ls -l
+   25  pwd
+   26  ssh-keygen
+   27  cat /c/Users/hp/.ssh/id_rsa.pub
+   28  ls
+   29  cd ..
+   30  ls
+   31  ls -la
+   32  cd DeniseTest/
+   33  pwd 
+   34  cd
+   35  pwd
+   36  cd DeniseTest/
+   37  cat /c/Users/hp/.ssh/id_rsa.pub
+   38  git clone git@github.com:DeniseTuzki/selenium-test-files.git
+   39  ls
+   40  cd selenium-test-files/
+   41  ls
+   42  ls-la
+   43  ls -la
+   44  ls -la
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "added files"
+   49  git config --global user.email "penaredondodenise@gmail.com"
+   50  git config --global user.name Denise
+   51  git config --show
+   52  git config --get-all
+   53  git config -l
+   54  git -h
+   55  git --help
+   56  git config -l
+   57  git commit -m "added files"
+   58  git status
+   59  git remote -v
+   60  git push
+   61  git hist
+   62  git status
+   63  git pull
+   64  ls -la
+   65  git pull
+   66  git branch -h
+   67  history
+   68  git status
+   69  git pull
+   70  ls -la
+   71  clear
+   72  history > my-list-of-commands.txt
